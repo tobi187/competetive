@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 
+// https://codeforces.com/problemset/problem/1763/B
+
 using namespace std;
 
 struct sort_pair {

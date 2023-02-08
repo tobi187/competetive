@@ -3,11 +3,11 @@
 using namespace std;
 
 int main() {
-    #ifndef ONLINE_JUGDE
+#ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
-    #endif
+#endif
 
-    int tt,n;
+    int tt, n;
     cin >> tt;
 }
